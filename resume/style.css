@@ -105,6 +105,11 @@ p {
 
 #links {
   position: absolute;
+  left: 0.0in;
+  align-content: left;
+  display: inline;
+  top: 0.5px;
+  text-transform: none
 }
 
 #code-links {
@@ -118,10 +123,11 @@ p {
 
 #title {
   text-align: center;
+  margin-bottom: 5px;
 }
 
 #links-title {
-  margin-bottom: 7px;
+  margin-bottom: 3px;
 }
 
 #date-title {

@@ -9,9 +9,9 @@ const about = {
   name: 'Ryan Bradford',
   role: 'Full-Stack Engineer',
   description:
-    `   I'm a 23 year-old Software Engineer based out of San Francisco, CA. I moved here in 2022 from my hometown of Boston, MA. I also went to school in Boston at Northeastern University. Here, I received my B.S. in Computer Science and Economics. Since then - professionally, I'm a developer who's great at building production-reach web applications. But I'm also interested in politics and economics. Specifically, housing supply, market-failures, and regulations are a passion of mine. I'm always looking for opportunities to bridge my passion and my profession.
+    `   I'm a MTSIII on the Cloud Director Service Hyperscaler's team at VMware helping to build the next generation of datacenter management technology.
 
-    Right now, I'm a developer at VMware. We are making a patent-pending technology to connect Cloud Director Instances in AWS to customer datacenters in a simple and secure way. On the team, I've been a mentor to our two interns, intrinsic to ensuring our application is serviceable and reliable, and delivered important features that unlock customers delivering millions in revenue.
+    I'm currently working on a patent-pending technology to connect Cloud Director instances to customer datacenters in a simple and secure way. I also serve as the Build Czar for the team, where I'm responsible for alerting about issues in tests and builds. I'm also the mentor for our team interns, which has helped me learn so much about being a developer!
 
     In my free time, I enjoy rock climbing, hiking, going to tasty coffee shops, and DJing a little. Please feel free to reach out about anything!`,
   resume: 'https://www.ryan-bradford.com/resume/resume.html',
@@ -39,11 +39,11 @@ const projects = [
     sourceCode: 'https://github.com/ryan-bradford/Capsol-API',
   },
   {
-    name: 'Waypointr',
+    name: 'DJ Code',
     description:
-      'Allows users to easily identify waypoints on their camera in real-time. Created to identify the peaks of mountains.',
-    stack: ['Swift'],
-    sourceCode: 'https://github.com/ryan-bradford/waypointr',
+      'The custom MIDI mappings for my DJ setup, made in Javascript. Also, contains the p5.js code for the visuals.',
+    stack: ['TypeScript'],
+    sourceCode: 'https://github.com/ryan-bradford/dj-code',
   },
 ]
 
@@ -56,6 +56,7 @@ const skills = [
   'Kubernetes',
   'Helm',
   'Docker',
+  "Terraform",
   'TypeScript',
   'Express.js',
   'Angular',

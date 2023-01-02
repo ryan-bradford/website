@@ -7,7 +7,7 @@ const header = {
 const about = {
   // all the properties are optional - can be left empty or deleted
   name: 'Ryan Bradford',
-  role: 'Full-Stack Engineer',
+  role: 'MTS III, intern mentor, build czar, 2x patent author @ VMware',
   description:
     `   I'm a MTSIII on the Cloud Director Service Hyperscaler's team at VMware helping to build the next generation of datacenter management technology.
 

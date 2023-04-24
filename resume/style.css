@@ -29,6 +29,10 @@
   --main-blocks-title-icon-offset-left: -19pt;
 }
 
+b {
+    font-weight: bold;
+}
+
 body{
   width: var(--page-width);
   margin: 0.75in auto;

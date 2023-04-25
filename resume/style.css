@@ -280,6 +280,8 @@ p {
 .details{
   flex: 1 0 0;
   padding-left: var(--decorator-horizontal-margin);
+  word-break: break-word;
+  hyphens: none;
 }
 
 .details header{
@@ -287,7 +289,7 @@ p {
 }
 
 .main-block:not(.concise) .details div{
-  margin: 0.18in 0 0.1in 0; 
+  margin: 0.18in 0.25in 0.1in 0; 
 }
 
 .main-block:not(.concise) .blocks:last-child .details div{

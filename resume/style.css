@@ -174,7 +174,7 @@ p {
 }
 
 #main h2::after{ /* extends the decorator line */
-  height: calc(var(--row-blocks-padding-top) * 2);
+  height: calc(var(--row-blocks-padding-top));
   position: relative;
   /* XXX: 0.5px for aligning fx printing */
   left: calc(-1 * var(--decorator-horizontal-margin));

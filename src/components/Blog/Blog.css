@@ -1,0 +1,12 @@
+.blog {
+    flex-direction: column;
+}
+
+.blog-post-title {
+    text-decoration: underline;
+    font-weight: bolder;
+}
+
+.Collapsible {
+    position: relative;
+}
